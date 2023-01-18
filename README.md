@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago Isaza</h1>
-<h3 align="center">A master's student in Applied Mathematics. Passionate about learning, constant growth and helping people. I always try to learn new things and that is why one of my favorite hobbies is reading.</h3>
+<h3 align="center">A master's student in Applied Mathematics at Universidad EAFIT. Passionate about learning, constant growth and helping people. I always try to learn new things and that is why one of my favorite hobbies is reading.
+
+</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
