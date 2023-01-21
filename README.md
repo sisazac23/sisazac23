@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Javascript and improving my cooking skills 👨‍🍳**
 
-- 🤝 I’m looking for help with **Javascript**
+- 🤝 I’m looking for help with **Javascript** and **React**
 
 - 💬 Ask me about **math, machine learning, statistics and data science.**
 
